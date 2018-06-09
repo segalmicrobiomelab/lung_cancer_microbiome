@@ -4,7 +4,7 @@ Author: Benjamin G. Wu
 
 Updated: 
 June 6, 2018
-Author: Benjamin G. Wu 
+Maintained by: Benjamin G. Wu 
 
 Airway Microbiota Is Associated with Up-Regulation of the PI3K Pathway in Lung Cancer
 
